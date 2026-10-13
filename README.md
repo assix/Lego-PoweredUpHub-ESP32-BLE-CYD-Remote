@@ -1,6 +1,6 @@
 # Lego-PoweredUpHub-ESP32-BLE-CYD-Remote
 
-A custom Bluetooth Low Energy (BLE) remote for Lego Powered Up (LPF2) trains using an ESP32 Cheap Yellow Display (CYD). Features a touchscreen interface for independent motor selection, speed sliders, and live battery telemetry—bypassing the need for official apps or third-party libraries.
+A custom Bluetooth Low Energy (BLE) remote for Lego Powered Up HUB Set LEGO 88009 (LPF2) using an ESP32 Cheap Yellow Display (CYD). Features a touchscreen interface for independent motor selection, speed sliders, and live battery telemetry—bypassing the need for official apps or third-party libraries.
 
 ![Project Setup](project-setup.jpeg)
 

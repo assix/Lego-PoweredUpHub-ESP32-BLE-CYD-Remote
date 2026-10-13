@@ -11,7 +11,7 @@ A custom Bluetooth Low Energy (BLE) remote for Lego Powered Up (LPF2) trains usi
 * **Drive States:** Instantly send Forward, Reverse, or Stop commands to the active motors.
 * **Smart Battery Telemetry:** Fetches the Hub's battery level upon connection and filters out artificial voltage sag readings caused by heavy motor load.
 
-![Touch Interface](touch-interface.jpg)
+![Touch Interface](touch-interface.jpeg)
 
 ## Hardware Requirements
 * ESP32-2432S028R (CYD - Cheap Yellow Display)
